@@ -286,3 +286,9 @@
 				#header nav a span {
 					display: none;
 				}
+
+
+.handwave {
+    width: 85px; 
+    margin-bottom:-10px
+}
